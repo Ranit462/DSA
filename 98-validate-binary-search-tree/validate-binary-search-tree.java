@@ -13,6 +13,7 @@
  *     }
  * }
  */
+ // for checking this question we do not need any array , we check this question in inorder traversal>>>>>>>>>>>>>>>> 
 class Solution {
     boolean ans = true;
     TreeNode prev = null;
